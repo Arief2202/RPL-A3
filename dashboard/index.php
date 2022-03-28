@@ -15,6 +15,7 @@ else{
     
 <h2>Hai <?php echo $_SESSION["user"]["nama"]?></h2>
 <h3>klik <a href="/logout.php">disini</a> untuk logout</h3>
+
 </body>
 </html>
 
