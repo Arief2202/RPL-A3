@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
-$user = "root";
-$password = "Lupa121q";
+$user = "rpl";
+$password = "password";
 $nama_database = "RPL-A3";
 
 $koneksi = mysqli_connect($server, $user, $password, $nama_database);
